@@ -1,0 +1,38 @@
+body{
+    background: #FFEFBA;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FFFFFF, #FFEFBA);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FFFFFF, #FFEFBA); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    color: rgb(0, 0, 0);
+    
+}
+#enlace{
+    font-size: 40px;
+    color: rgba(0, 0, 0, 0.699);
+    
+}
+#titulo{
+    text-align: center;
+    size: 100px;
+    margin-top: 20px;
+}
+#cont{
+    
+    font-size: 20px;
+    margin-top: 40px;
+    
+}
+#contentWrap{
+    display: none;
+}
+#use{
+    text-align: end;
+    margin-left: 100px;
+}
+#divs{
+    display: flex;
+    
+}
+#userss{
+    margin-top: 65px;
+}
